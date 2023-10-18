@@ -1,0 +1,84 @@
+C:\Users\santh\source\repos\Santhiya\Santhiya\bin\Debug\net7.0-windows\Santhiya.exe
+C:\Users\santh\source\repos\Santhiya\Santhiya\bin\Debug\net7.0-windows\Santhiya.deps.json
+C:\Users\santh\source\repos\Santhiya\Santhiya\bin\Debug\net7.0-windows\Santhiya.runtimeconfig.json
+C:\Users\santh\source\repos\Santhiya\Santhiya\bin\Debug\net7.0-windows\Santhiya.dll
+C:\Users\santh\source\repos\Santhiya\Santhiya\bin\Debug\net7.0-windows\Santhiya.pdb
+C:\Users\santh\source\repos\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.csproj.AssemblyReference.cache
+C:\Users\santh\source\repos\Santhiya\Santhiya\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\santh\source\repos\Santhiya\Santhiya\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\santh\source\repos\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya_MarkupCompile.cache
+C:\Users\santh\source\repos\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya_MarkupCompile.lref
+C:\Users\santh\source\repos\Santhiya\Santhiya\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\santh\source\repos\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.g.resources
+C:\Users\santh\source\repos\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santh\source\repos\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.AssemblyInfoInputs.cache
+C:\Users\santh\source\repos\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.AssemblyInfo.cs
+C:\Users\santh\source\repos\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.csproj.CoreCompileInputs.cache
+C:\Users\santh\source\repos\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.dll
+C:\Users\santh\source\repos\Santhiya\Santhiya\obj\Debug\net7.0-windows\refint\Santhiya.dll
+C:\Users\santh\source\repos\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.pdb
+C:\Users\santh\source\repos\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.genruntimeconfig.cache
+C:\Users\santh\source\repos\Santhiya\Santhiya\obj\Debug\net7.0-windows\ref\Santhiya.dll
+C:\Output\01-08-2023\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.csproj.AssemblyReference.cache
+C:\Output\01-08-2023\Santhiya\Santhiya\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Output\01-08-2023\Santhiya\Santhiya\obj\Debug\net7.0-windows\App.g.cs
+C:\Output\01-08-2023\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya_MarkupCompile.cache
+C:\Output\01-08-2023\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya_MarkupCompile.lref
+C:\Output\01-08-2023\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.dll
+C:\Output\01-08-2023\Santhiya\Santhiya\obj\Debug\net7.0-windows\refint\Santhiya.dll
+C:\Output\01-08-2023\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.pdb
+C:\Output\01-08-2023\Santhiya\Santhiya\bin\Debug\net7.0-windows\Santhiya.exe
+C:\Output\01-08-2023\Santhiya\Santhiya\bin\Debug\net7.0-windows\Santhiya.deps.json
+C:\Output\01-08-2023\Santhiya\Santhiya\bin\Debug\net7.0-windows\Santhiya.runtimeconfig.json
+C:\Output\01-08-2023\Santhiya\Santhiya\bin\Debug\net7.0-windows\Santhiya.dll
+C:\Output\01-08-2023\Santhiya\Santhiya\bin\Debug\net7.0-windows\Santhiya.pdb
+C:\Output\01-08-2023\Santhiya\Santhiya\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Output\01-08-2023\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.g.resources
+C:\Output\01-08-2023\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Output\01-08-2023\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.AssemblyInfoInputs.cache
+C:\Output\01-08-2023\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.AssemblyInfo.cs
+C:\Output\01-08-2023\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.csproj.CoreCompileInputs.cache
+C:\Output\01-08-2023\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.genruntimeconfig.cache
+C:\Output\01-08-2023\Santhiya\Santhiya\obj\Debug\net7.0-windows\ref\Santhiya.dll
+C:\Output\Day 2\Santhiya\Santhiya\bin\Debug\net7.0-windows\Santhiya.exe
+C:\Output\Day 2\Santhiya\Santhiya\bin\Debug\net7.0-windows\Santhiya.deps.json
+C:\Output\Day 2\Santhiya\Santhiya\bin\Debug\net7.0-windows\Santhiya.runtimeconfig.json
+C:\Output\Day 2\Santhiya\Santhiya\bin\Debug\net7.0-windows\Santhiya.dll
+C:\Output\Day 2\Santhiya\Santhiya\bin\Debug\net7.0-windows\Santhiya.pdb
+C:\Output\Day 2\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.csproj.AssemblyReference.cache
+C:\Output\Day 2\Santhiya\Santhiya\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Output\Day 2\Santhiya\Santhiya\obj\Debug\net7.0-windows\App.g.cs
+C:\Output\Day 2\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya_MarkupCompile.cache
+C:\Output\Day 2\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya_MarkupCompile.lref
+C:\Output\Day 2\Santhiya\Santhiya\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Output\Day 2\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.g.resources
+C:\Output\Day 2\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Output\Day 2\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.AssemblyInfoInputs.cache
+C:\Output\Day 2\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.AssemblyInfo.cs
+C:\Output\Day 2\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.csproj.CoreCompileInputs.cache
+C:\Output\Day 2\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.dll
+C:\Output\Day 2\Santhiya\Santhiya\obj\Debug\net7.0-windows\refint\Santhiya.dll
+C:\Output\Day 2\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.pdb
+C:\Output\Day 2\Santhiya\Santhiya\obj\Debug\net7.0-windows\Santhiya.genruntimeconfig.cache
+C:\Output\Day 2\Santhiya\Santhiya\obj\Debug\net7.0-windows\ref\Santhiya.dll
+C:\Users\santh\OneDrive\Documents\GitHub\Color-Palette-Task\Mouse Double click task\Santhiya\bin\Debug\net7.0-windows\Santhiya.exe
+C:\Users\santh\OneDrive\Documents\GitHub\Color-Palette-Task\Mouse Double click task\Santhiya\bin\Debug\net7.0-windows\Santhiya.deps.json
+C:\Users\santh\OneDrive\Documents\GitHub\Color-Palette-Task\Mouse Double click task\Santhiya\bin\Debug\net7.0-windows\Santhiya.runtimeconfig.json
+C:\Users\santh\OneDrive\Documents\GitHub\Color-Palette-Task\Mouse Double click task\Santhiya\bin\Debug\net7.0-windows\Santhiya.dll
+C:\Users\santh\OneDrive\Documents\GitHub\Color-Palette-Task\Mouse Double click task\Santhiya\bin\Debug\net7.0-windows\Santhiya.pdb
+C:\Users\santh\OneDrive\Documents\GitHub\Color-Palette-Task\Mouse Double click task\Santhiya\obj\Debug\net7.0-windows\Santhiya.csproj.AssemblyReference.cache
+C:\Users\santh\OneDrive\Documents\GitHub\Color-Palette-Task\Mouse Double click task\Santhiya\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\santh\OneDrive\Documents\GitHub\Color-Palette-Task\Mouse Double click task\Santhiya\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\santh\OneDrive\Documents\GitHub\Color-Palette-Task\Mouse Double click task\Santhiya\obj\Debug\net7.0-windows\Santhiya_MarkupCompile.cache
+C:\Users\santh\OneDrive\Documents\GitHub\Color-Palette-Task\Mouse Double click task\Santhiya\obj\Debug\net7.0-windows\Santhiya_MarkupCompile.lref
+C:\Users\santh\OneDrive\Documents\GitHub\Color-Palette-Task\Mouse Double click task\Santhiya\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\santh\OneDrive\Documents\GitHub\Color-Palette-Task\Mouse Double click task\Santhiya\obj\Debug\net7.0-windows\Santhiya.g.resources
+C:\Users\santh\OneDrive\Documents\GitHub\Color-Palette-Task\Mouse Double click task\Santhiya\obj\Debug\net7.0-windows\Santhiya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santh\OneDrive\Documents\GitHub\Color-Palette-Task\Mouse Double click task\Santhiya\obj\Debug\net7.0-windows\Santhiya.AssemblyInfoInputs.cache
+C:\Users\santh\OneDrive\Documents\GitHub\Color-Palette-Task\Mouse Double click task\Santhiya\obj\Debug\net7.0-windows\Santhiya.AssemblyInfo.cs
+C:\Users\santh\OneDrive\Documents\GitHub\Color-Palette-Task\Mouse Double click task\Santhiya\obj\Debug\net7.0-windows\Santhiya.csproj.CoreCompileInputs.cache
+C:\Users\santh\OneDrive\Documents\GitHub\Color-Palette-Task\Mouse Double click task\Santhiya\obj\Debug\net7.0-windows\Santhiya.dll
+C:\Users\santh\OneDrive\Documents\GitHub\Color-Palette-Task\Mouse Double click task\Santhiya\obj\Debug\net7.0-windows\refint\Santhiya.dll
+C:\Users\santh\OneDrive\Documents\GitHub\Color-Palette-Task\Mouse Double click task\Santhiya\obj\Debug\net7.0-windows\Santhiya.pdb
+C:\Users\santh\OneDrive\Documents\GitHub\Color-Palette-Task\Mouse Double click task\Santhiya\obj\Debug\net7.0-windows\Santhiya.genruntimeconfig.cache
+C:\Users\santh\OneDrive\Documents\GitHub\Color-Palette-Task\Mouse Double click task\Santhiya\obj\Debug\net7.0-windows\ref\Santhiya.dll
